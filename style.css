@@ -207,3 +207,9 @@ video {
 .contact-box {
     text-align: center;
 }
+
+.contact-box p {
+    color: #333;
+    font-size: large;
+    font-weight: bold;
+}
